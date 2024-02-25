@@ -24,81 +24,21 @@
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
         <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://camo.githubusercontent.com/c1935cf42e4a1679ea1026daa1633f6c8186ecb1b15b0d07b8e8d8993633e03e/68747470733a2f2f692e696d6775722e636f6d2f744854793665682e676966" target="_blank">
           
-        <span data-target="animated-image.imageContainer">
-            <img data-target="animated-image.replacedImage" alt="taskt-main-screen" class="AnimatedImagePlayer-animatedImage" src="https://camo.githubusercontent.com/c1935cf42e4a1679ea1026daa1633f6c8186ecb1b15b0d07b8e8d8993633e03e/68747470733a2f2f692e696d6775722e636f6d2f744854793665682e676966" style="display: block; opacity: 1;">
-          <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="814" height="435"></canvas></span></a>
-        <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="Play taskt-main-screen" hidden=""></button>
-        <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls" hidden="">
-          <button data-target="animated-image.playButton" class="AnimatedImagePlayer-button" aria-label="Play taskt-main-screen">
-            <svg aria-hidden="true" focusable="false" class="octicon icon-play" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-              <path d="M4 13.5427V2.45734C4 1.82607 4.69692 1.4435 5.2295 1.78241L13.9394 7.32507C14.4334 7.63943 14.4334 8.36057 13.9394 8.67493L5.2295 14.2176C4.69692 14.5565 4 14.1739 4 13.5427Z">
-            </path></svg>
-            <svg aria-hidden="true" focusable="false" class="octicon icon-pause" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
-              <rect x="4" y="2" width="3" height="12" rx="1"></rect>
-              <rect x="9" y="2" width="3" height="12" rx="1"></rect>
-            </svg>
-          </button>
-          <a data-target="animated-image.openButton" aria-label="Open taskt-main-screen in new window" class="AnimatedImagePlayer-button" href="https://camo.githubusercontent.com/c1935cf42e4a1679ea1026daa1633f6c8186ecb1b15b0d07b8e8d8993633e03e/68747470733a2f2f692e696d6775722e636f6d2f744854793665682e676966" target="_blank">
-            <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-              <path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path>
-            </svg>
-          </a>
-        </span>
-      </span></animated-image></p>
+    
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4767ece6241958250102c7062c125719f3773e224457359652e0f8e29aab1cc1/68747470733a2f2f692e696d6775722e636f6d2f677a59456452472e706e67"><img src="https://camo.githubusercontent.com/4767ece6241958250102c7062c125719f3773e224457359652e0f8e29aab1cc1/68747470733a2f2f692e696d6775722e636f6d2f677a59456452472e706e67" alt="点击。 配置。 完毕。" data-canonical-src="https://i.imgur.com/gzYEdRG.png" style="max-width: 100%;"></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
 taskt 使您能够打造执行和执行基于规则的自动化的数字化劳动力，从而使无聊的工作自动化并提高效率。</font><font style="vertical-align: inherit;">没有API？</font><font style="vertical-align: inherit;">没问题！</font><font style="vertical-align: inherit;">其中包括一个“所见即所得”的机器人设计器，具有数十个自动化命令。</font><font style="vertical-align: inherit;">还包括一个元素记录器和屏幕记录器，可以记录和重放脚本自动化。</font></font></p>
 <p dir="auto"><animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/bf7ef79186ce8261ed4ace4cee6615f0d4355c723eced8de216d3159a4a6885f/68747470733a2f2f692e696d6775722e636f6d2f457069776b506a2e676966" data-target="animated-image.originalLink"><img src="https://camo.githubusercontent.com/bf7ef79186ce8261ed4ace4cee6615f0d4355c723eced8de216d3159a4a6885f/68747470733a2f2f692e696d6775722e636f6d2f457069776b506a2e676966" alt="录音机" data-canonical-src="https://i.imgur.com/EpiwkPj.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
         <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://camo.githubusercontent.com/bf7ef79186ce8261ed4ace4cee6615f0d4355c723eced8de216d3159a4a6885f/68747470733a2f2f692e696d6775722e636f6d2f457069776b506a2e676966" target="_blank">
           
-        <span data-target="animated-image.imageContainer">
-            <img data-target="animated-image.replacedImage" alt="Recorder" class="AnimatedImagePlayer-animatedImage" src="https://camo.githubusercontent.com/bf7ef79186ce8261ed4ace4cee6615f0d4355c723eced8de216d3159a4a6885f/68747470733a2f2f692e696d6775722e636f6d2f457069776b506a2e676966" style="display: block; opacity: 1;">
-          <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="814" height="434"></canvas></span></a>
-        <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="Play Recorder" hidden=""></button>
-        <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls" hidden="">
-          <button data-target="animated-image.playButton" class="AnimatedImagePlayer-button" aria-label="Play Recorder">
-            <svg aria-hidden="true" focusable="false" class="octicon icon-play" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-              <path d="M4 13.5427V2.45734C4 1.82607 4.69692 1.4435 5.2295 1.78241L13.9394 7.32507C14.4334 7.63943 14.4334 8.36057 13.9394 8.67493L5.2295 14.2176C4.69692 14.5565 4 14.1739 4 13.5427Z">
-            </path></svg>
-            <svg aria-hidden="true" focusable="false" class="octicon icon-pause" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
-              <rect x="4" y="2" width="3" height="12" rx="1"></rect>
-              <rect x="9" y="2" width="3" height="12" rx="1"></rect>
-            </svg>
-          </button>
-          <a data-target="animated-image.openButton" aria-label="Open Recorder in new window" class="AnimatedImagePlayer-button" href="https://camo.githubusercontent.com/bf7ef79186ce8261ed4ace4cee6615f0d4355c723eced8de216d3159a4a6885f/68747470733a2f2f692e696d6775722e636f6d2f457069776b506a2e676966" target="_blank">
-            <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-              <path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path>
-            </svg>
-          </a>
-        </span>
-      </span></animated-image></p>
+     
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f8164ee7091dea1e07796b485af79e45794ef44e641479edc5a605da477f4ee4/68747470733a2f2f692e696d6775722e636f6d2f547872483659482e706e67"><img src="https://camo.githubusercontent.com/f8164ee7091dea1e07796b485af79e45794ef44e641479edc5a605da477f4ee4/68747470733a2f2f692e696d6775722e636f6d2f547872483659482e706e67" alt="任务如何工作？" data-canonical-src="https://i.imgur.com/TxrH6YH.png" style="max-width: 100%;"></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
 taskt 的工作原理是允许机器人开发人员设计称为脚本的机器人配置。</font><font style="vertical-align: inherit;">然后，脚本引擎在运行时解释机器人配置，并根据机器人开发人员选择的参数输入执行。</font><font style="vertical-align: inherit;">每个命令都包含所需输入的定义以及运行时所需的逻辑。</font><font style="vertical-align: inherit;">请查看</font></font><a href="https://github.com/saucepleez/taskt/wiki"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Wiki，</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">了解有关应用程序和可用命令的基本文档</font></font></p>
 <p dir="auto"><animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/632de2f6de8fb9a88ec6a82105444b5a3f6e84d79a284cd6bacc97d08b532f1b/68747470733a2f2f692e696d6775722e636f6d2f75667667666e322e676966" data-target="animated-image.originalLink"><img src="https://camo.githubusercontent.com/632de2f6de8fb9a88ec6a82105444b5a3f6e84d79a284cd6bacc97d08b532f1b/68747470733a2f2f692e696d6775722e636f6d2f75667667666e322e676966" alt="配置任务" data-canonical-src="https://i.imgur.com/ufvgfn2.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
         <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://camo.githubusercontent.com/632de2f6de8fb9a88ec6a82105444b5a3f6e84d79a284cd6bacc97d08b532f1b/68747470733a2f2f692e696d6775722e636f6d2f75667667666e322e676966" target="_blank">
           
-        <span data-target="animated-image.imageContainer">
-            <img data-target="animated-image.replacedImage" alt="Configuring Tasks" class="AnimatedImagePlayer-animatedImage" src="https://camo.githubusercontent.com/632de2f6de8fb9a88ec6a82105444b5a3f6e84d79a284cd6bacc97d08b532f1b/68747470733a2f2f692e696d6775722e636f6d2f75667667666e322e676966" style="display: block; opacity: 1;">
-          <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="814" height="435"></canvas></span></a>
-        <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="Play Configuring Tasks" hidden=""></button>
-        <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls" hidden="">
-          <button data-target="animated-image.playButton" class="AnimatedImagePlayer-button" aria-label="Play Configuring Tasks">
-            <svg aria-hidden="true" focusable="false" class="octicon icon-play" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-              <path d="M4 13.5427V2.45734C4 1.82607 4.69692 1.4435 5.2295 1.78241L13.9394 7.32507C14.4334 7.63943 14.4334 8.36057 13.9394 8.67493L5.2295 14.2176C4.69692 14.5565 4 14.1739 4 13.5427Z">
-            </path></svg>
-            <svg aria-hidden="true" focusable="false" class="octicon icon-pause" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
-              <rect x="4" y="2" width="3" height="12" rx="1"></rect>
-              <rect x="9" y="2" width="3" height="12" rx="1"></rect>
-            </svg>
-          </button>
-          <a data-target="animated-image.openButton" aria-label="Open Configuring Tasks in new window" class="AnimatedImagePlayer-button" href="https://camo.githubusercontent.com/632de2f6de8fb9a88ec6a82105444b5a3f6e84d79a284cd6bacc97d08b532f1b/68747470733a2f2f692e696d6775722e636f6d2f75667667666e322e676966" target="_blank">
-            <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-              <path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path>
-            </svg>
-          </a>
-        </span>
-      </span></animated-image></p>
+    
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/bfd5945ad5b4f388ddabae5aec9926ddf975ded236ff747d8641173e7180ff03/68747470733a2f2f692e696d6775722e636f6d2f46544d525469382e706e67"><img src="https://camo.githubusercontent.com/bfd5945ad5b4f388ddabae5aec9926ddf975ded236ff747d8641173e7180ff03/68747470733a2f2f692e696d6775722e636f6d2f46544d525469382e706e67" alt="任务可以做什么？" data-canonical-src="https://i.imgur.com/FTMRTi8.png" style="max-width: 100%;"></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
 taskt 可以在 Web 和桌面应用程序上执行自动化，模拟人会执行的操作。</font><font style="vertical-align: inherit;">从转椅数据输入到报告生成，taskt 可以满足您的自动化需求。</font><font style="vertical-align: inherit;">更喜欢编写和实现代码？</font><font style="vertical-align: inherit;">taskt 可以使用现有的 .NET DLL 和服务，此外还能够使用自定义代码命令动态编译代码！</font><font style="vertical-align: inherit;">taskt 可以启动和停止进程、启动 VB 和 PowerShell 脚本、直接使用 Excel 工作簿、执行 OCR（需要安装 OneNote）以及许多其他功能。</font></font><a href="https://github.com/saucepleez/taskt/wiki/Automation-Commands"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您可以单击此处</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">查看所有自动化命令</font><font style="vertical-align: inherit;">。</font></font></p>
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/891c71b7705bcb4572028c4816d1a6b2c48c113aefe78e27f411fb23199e9340/68747470733a2f2f692e696d6775722e636f6d2f4b5156714e39762e706e67"><img src="https://camo.githubusercontent.com/891c71b7705bcb4572028c4816d1a6b2c48c113aefe78e27f411fb23199e9340/68747470733a2f2f692e696d6775722e636f6d2f4b5156714e39762e706e67" alt="管理您的劳动力" data-canonical-src="https://i.imgur.com/KQVqN9v.png" style="max-width: 100%;"></a>
